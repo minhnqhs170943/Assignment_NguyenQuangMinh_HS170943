@@ -22,7 +22,7 @@
         <link rel="stylesheet" href="css/owl.carousel.min.css" type="text/css">
         <link rel="stylesheet" href="css/slicknav.min.css" type="text/css">
         <link rel="stylesheet" href="css/style.css" type="text/css">
-        <title>Yoru kitchen</title>
+        <title>AppleMeoMeo Kitchen</title>
         <style>
             .featured__item__pic__hover li:nth-child(2) a i {
                 /* CSS properties */
